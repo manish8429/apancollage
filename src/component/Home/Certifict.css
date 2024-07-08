@@ -1,0 +1,14 @@
+.containerr{
+    font-weight: 600;
+    font-family: Barlow;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    font-size: 1.2rem;
+    height: 75px;
+}
+.certi{
+    display: flex;
+    justify-content: center;
+  
+
+}

@@ -1,0 +1,25 @@
+
+
+.ccontainer{
+  
+  background-image: url('./images/secontlogo.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 9rem;
+  color: white;
+  font-weight: 500;
+  font-size: smaller;
+  flex-basis: 23%;
+
+}
+
+
+
+
+/* backgroundSize: 'cover',
+backgroundPosition: 'center',
+height: '100vh', // Adjust height as needed
+display: 'flex',
+justifyContent: 'center',
+alignItems: 'center',
+} */

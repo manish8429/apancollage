@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.cxcontainer{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 7rem;
+    margin-right: 8rem;
+    align-items: center;
+    font-size: 2rem;
+}
+.pdiv{
+    height: 5rem;
+}

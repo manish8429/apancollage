@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.cccontainer{
+background-color: #dee1f4;
+height: 28rem;
+
+
+}
+.col1{
+  justify-content: center;
+  margin-left: 8rem;
+  font-weight: bold;
+  margin-top: 5rem;
+}
+.spanhero{
+  color: #6674cc;
+  font-size: 3rem;
+}
+.spanbutton{
+ background-color: #6674cc;
+ padding: 8px;
+ border-radius: 5px;
+}
+.heroimg{
+  width: 20px;
+  margin-top: 2rem;
+  margin-right: 10rem;
+}
