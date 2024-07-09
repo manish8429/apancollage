@@ -1,0 +1,13 @@
+.cal1{
+    background-color: red;
+}
+.firstqq{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+  
+    height: 22rem;
+    margin-left: 5rem;
+}

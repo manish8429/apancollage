@@ -31,7 +31,7 @@ const JoinUs = () => {
         </div>
     </div>
     <div className='col-4' style={{marginTop:"2rem",justifyContent:"center"}}>
-       <spane> <img style={{width:"30px",marginLeft:"3rem" , paddingTop:"0.1rem"}} src='images/telegram.svg'/></spane>
+       <spane> <img style={{width:"30px",marginLeft:"3rem" , paddingTop:"0.1rem"}} src='images/telegram-logo-svg-vector.svg'/></spane>
        <div style={{marginLeft:"2.4rem" , paddingTop:"0.1rem"}}>Telegram</div>
         <div style={{marginLeft:"1rem" , paddingTop:"0.1rem"}}>
         <strong>

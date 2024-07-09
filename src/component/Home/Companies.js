@@ -3,7 +3,8 @@ import "./Companies.css";
 
 const Companies = () => {
   return (
-    <>
+    <> 
+    <div style={{ height:"15rem", marginTop:"2rem", padding:"1rem"}}>
     <div style={{ marginTop:"10px"}}>
       <div className="cxcontainer">
         <div className="">
@@ -80,6 +81,7 @@ const Companies = () => {
   <p className='text-muted'  style={{ fontSize:"1.3rem", marginTop:"1.3rem"} }>+ many more </p>
   </div>
   <hr/>
+  </div>
     </>
   );
 };

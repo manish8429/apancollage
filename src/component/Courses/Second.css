@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.maindiv{
+     width: 105%;
+    margin-top: 4rem;
+    height: 15rem;
+    background-image: url('../Home/images/bluebg.jpg');
+    background-position: center; /* Position the background image */
+    background-size: cover; /* Cover the entire element */
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    
+    
+}
